@@ -21,20 +21,20 @@ ____________________
 ### Upload Folder Manual
 - Setelah Folder inery kita jadi, dibuat dengan nama akun inery, dan berisi file-file hasil oplosan hasil kreatifitas kita wkwkwk. maka silahkan upload, harap di pahami, pastikan posisi upload adalah task4
 ![img](./images/Manual-5.png)
-
+____________________
 - Seret foldermu ke github (seret aja gan, kagak usah bingung-bingung), ya seret seret kagak ngerti seret? ngopi dulu sana..
 ![img](./images/Manual-6.png)
-
+____________________
 - Sekrul ke bawah gan.. isi tulisan bagian commit changes biar agak kerenan dikit, abis itu klik  commit changes
 ![img](./images/Manual-7.png)
 ____________________
 ### Commit Task4 ke Inery
 - Klik commit ahead
 ![img](./images/Manual-8.png)
-
+____________________
 - klik Create pull request
 ![img](./images/Manual-9.png)
-
+____________________
 - Dan lanjutkan
 ![img](./images/Manual-91.png)
 ____________________
