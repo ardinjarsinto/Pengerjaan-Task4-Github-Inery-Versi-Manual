@@ -17,6 +17,16 @@ ____________________
 - Tujuan mendownload bahan adalah untuk memainkan peran imajinasi dan kreatifitas kita bermain oplosan file
 ![img](./images/Manual-4.png)
 
+
+### Sedikit gambaran cara kerjanya
+Nah hal apa yang harus kamu lakukan setelah download, semua bergantung padamu. untuk cluenya adalah
+- membuat nama folder sendiri atas nama akun inerymu
+-.ngoplos file punya orang, (jangan bilang-bilang kalau ada yang nanya)
+- modivikasi nama file dan sedikit isi file. misal create jadi inerycreate atau solutioncreate dll
+- setelah kelar upload ke githubmu
+- semoga berhasil
+
+
 ____________________
 ### Upload Folder Manual
 - Setelah Folder inery kita jadi, dibuat dengan nama akun inery, dan berisi file-file hasil oplosan hasil kreatifitas kita wkwkwk. maka silahkan upload, harap di pahami, pastikan posisi upload adalah task4
